@@ -365,3 +365,10 @@ body[data-route="pos"] .collapse-btn {
 .leaderboard .list-item_content {
   padding-right: 45px;
 }
+/* Royal Gardens CSS Fixes*/
+#page-desktop {
+	background-color: none !important;
+    background-attachment: fixed;
+    background-size: unset;
+	background: #0d4a27 url('/assets/erpnext/images/royal-gardens-logo-256.png') no-repeat bottom left !important;
+}
